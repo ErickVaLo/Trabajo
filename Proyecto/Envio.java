@@ -1,6 +1,3 @@
-
-
-// Clase base Envio
 public abstract class Envio {
     protected double peso;
     protected double dimensiones;
@@ -11,6 +8,5 @@ public abstract class Envio {
     }
 
     public abstract double calcularCostoEnvio();
+
 }
-
-
